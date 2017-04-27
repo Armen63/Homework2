@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">click</string>
+    <string name="full_name">Full Name</string>
+    <string name="sarah_jonson">Sarah Jonson</string>
+    <string name="john_smith">John Smith</string>
+    <string name="female">F</string>
+    <string name="male">M</string>
+</resources>
